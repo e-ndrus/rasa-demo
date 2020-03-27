@@ -68,3 +68,10 @@
     - utter_thumbsup
     - action_deactivate_form
     - form{"name": null}
+
+## Phone not working
+
+* greet
+    - utter_greet
+* phone_not_working
+    - utter_try_rebooting

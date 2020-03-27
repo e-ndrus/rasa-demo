@@ -2258,7 +2258,7 @@
 - I would like to talk to someone from your sales team
 - i want to buy the enterprise edition
 - i would like rasa enterprise
-- purchase rasa enterprise 
+- purchase rasa enterprise
 - buy rasa enterprise
 - Ok I want to talk to your sales team immediately
 - Please connect me to someone from sales
@@ -4923,11 +4923,8 @@
 - thx
 - yes thanks
 
-## lookup: location
-data/nlu/lookups/location.txt
-
-## lookup: product
-data/nlu/lookups/products.txt
+## intent:phone_overheating
+- my phone is too hot
 
 ## synonym: duration
 - how long
@@ -4969,7 +4966,7 @@ data/nlu/lookups/products.txt
 
 ## synonym:entity recognition
 - ner
-- entity extraction 
+- entity extraction
 - Entity recognition
 - NER
 - recognition
@@ -5042,3 +5039,9 @@ data/nlu/lookups/products.txt
 
 ## regex:zipcode
 - [0-9]{5}
+
+## lookup:location.txt
+  data/nlu/lookups/location.txt
+
+## lookup:products.txt
+  data/nlu/lookups/products.txt
