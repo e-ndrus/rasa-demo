@@ -77,6 +77,7 @@ intents:
 - out_of_scope/non_english
 - out_of_scope/other
 - phone_overheating
+- order_pizza
 entities:
 - amount-of-money
 - company
@@ -731,6 +732,8 @@ responses:
   - text: Can you rephrase the question?
   utter_battery_too_hot:
   - text: If it's too hot, try rebooting or changing your battery.
+  utter_which_car:
+  - text: Which car would you like to buy?
 actions:
 - action_chitchat
 - action_default_ask_affirmation
@@ -913,6 +916,7 @@ actions:
 - utter_x_tutorial
 - utter_ask_rephrase
 - utter_battery_too_hot
+- utter_which_car
 forms:
 - sales_form
 - subscribe_newsletter_form

@@ -4926,6 +4926,22 @@
 ## intent:phone_overheating
 - my phone is too hot
 
+## intent:buy_car
+- I'd like to buy a car
+
+## intent:order_pizza
+- need a piza
+- i would eat an elephant
+- wanna eat
+- i would like to order a pizza
+- I would like to order a pizza
+- wanna eat something
+
+## intent:battery_hot
+- my phone's battery is too hot
+- my phone is overheating
+- battery is way too hot
+
 ## synonym: duration
 - how long
 - durations
