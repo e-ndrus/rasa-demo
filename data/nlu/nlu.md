@@ -1859,7 +1859,6 @@
 - what can you do
 - what can you do for me
 - what can you do, sara?
-- what can you do?
 - what can you offer me?
 - what can you tell me
 - what can you?
@@ -1882,6 +1881,101 @@
 - what you do
 - what you doing?
 - what you talk about?
+
+## intent:install_rasa
+- what can you do?
+- Can you get me Rasa [Core](product)?
+- Can you help me to install Rasa?
+- Do you mind helping me install Rasa?
+- Help me get Rasa [Core](product).
+- Help me install Rasa
+- How do I install Rasa Stack?
+- How i install
+- How to install Rasa
+- How to install Rasa Stack
+- How to install Rasa [Core](product)?
+- How to install Rasa?
+- How to install rasa
+- How to install rasa stack
+- I have chosen Rasa Stack
+- I have decided on Rasa Stack
+- I need Rasa Stack
+- I need Rasa Stack.
+- I need assistance in getting Rasa Stack.
+- I need to get Rasa Stack up and running.
+- I need to install Rasa
+- I need to install Rasa [Core](product).
+- I need to install Rasa [NLU](product).
+- I require Rasa Stack?
+- I think I want to install Rasa Stack
+- I want info on installing Rasa
+- I want to do a Rasa Stack installation
+- I want to install Rasa Stack
+- I want to install Rasa [Core](product)
+- I want to install rasa
+- I want to use Rasa Stack
+- I'd like to install Rasa [Core](product)
+- I'd like to install Rasa [NLU](product)
+- I'd like to perform an installation of Rasa Stack
+- I'm getting Rasa Stack
+- I'm going to install Rasa Stack
+- I'm installing Rasa Stack
+- Installing Rasa Stack will be extremely helpful to me.
+- Installing rasa
+- Its urgent for me to install Rasa.
+- Just install Rasa Stack
+- Let me install Rasa Stack.
+- Please assist me with installing Rasa Stack.
+- Please help me install Rasa Stack
+- Please install Rasa Stack
+- Please, I need Rasa [Core](product).
+- Rasa Stack is what I will be installing
+- Thank you in advance for suggesting I install Rasa [NLU](product).
+- Where to get Rasa Stack?
+- Yes, I do need Rasa Stack.
+- am struck with installation
+- am struck with installation of rasa [nlu](product) and [core](product) in my mac book
+- can i run rasa on my computer?
+- can you help me with installation
+- can you help me with installation of rasa [nlu](product) and train my first bot
+- download
+- dude, i want install rasa
+- having some problems with installation
+- help me wih the installation
+- hi i am not able install rasa demo in my machine
+- how can I install RASA
+- how can i install python
+- how can i install rasa
+- how do I install Rasa
+- how do I install it?
+- how do I install rasa in windows
+- how do I install rasa?
+- how do I run rasa on windows
+- how do i install
+- how do i install rasa?
+- how to install
+- how to install on window
+- how to install rasa [core](product)?
+- how to install rasa in my system
+- how to install rasa on windows?
+- how to install rasa stack
+- how to install rasa?
+- how to install rasa_nlu
+- how to install sara in my server
+- how to install the rasa stack
+- i need help setting up
+- i need to download rasa
+- i want to install
+- i want to install rasa
+- i want to use pip to install sara
+- install
+- install Rasa [NLU](product)
+- install Rasa on Linux
+- install Rasa on Mac
+- install rasa stack
+- please tell steps for installing chatbot
+- what do I need to install Rasa
+- what sould i do to install rasa
 
 ## intent:ask_wherefrom
 - Are you from around here?
@@ -3809,100 +3903,6 @@
 - thats not helping, can i talk to human?
 - wrong i want to speak to a human
 
-## intent:install_rasa
-- Can you get me Rasa [Core](product)?
-- Can you help me to install Rasa?
-- Do you mind helping me install Rasa?
-- Help me get Rasa [Core](product).
-- Help me install Rasa
-- How do I install Rasa Stack?
-- How i install
-- How to install Rasa
-- How to install Rasa Stack
-- How to install Rasa [Core](product)?
-- How to install Rasa?
-- How to install rasa
-- How to install rasa stack
-- I have chosen Rasa Stack
-- I have decided on Rasa Stack
-- I need Rasa Stack
-- I need Rasa Stack.
-- I need assistance in getting Rasa Stack.
-- I need to get Rasa Stack up and running.
-- I need to install Rasa
-- I need to install Rasa [Core](product).
-- I need to install Rasa [NLU](product).
-- I require Rasa Stack?
-- I think I want to install Rasa Stack
-- I want info on installing Rasa
-- I want to do a Rasa Stack installation
-- I want to install Rasa Stack
-- I want to install Rasa [Core](product)
-- I want to install rasa
-- I want to use Rasa Stack
-- I'd like to install Rasa [Core](product)
-- I'd like to install Rasa [NLU](product)
-- I'd like to perform an installation of Rasa Stack
-- I'm getting Rasa Stack
-- I'm going to install Rasa Stack
-- I'm installing Rasa Stack
-- Installing Rasa Stack will be extremely helpful to me.
-- Installing rasa
-- Its urgent for me to install Rasa.
-- Just install Rasa Stack
-- Let me install Rasa Stack.
-- Please assist me with installing Rasa Stack.
-- Please help me install Rasa Stack
-- Please install Rasa Stack
-- Please, I need Rasa [Core](product).
-- Rasa Stack is what I will be installing
-- Thank you in advance for suggesting I install Rasa [NLU](product).
-- Where to get Rasa Stack?
-- Yes, I do need Rasa Stack.
-- am struck with installation
-- am struck with installation of rasa [nlu](product) and [core](product) in my mac book
-- can i run rasa on my computer?
-- can you help me with installation
-- can you help me with installation of rasa [nlu](product) and train my first bot
-- download
-- dude, i want install rasa
-- having some problems with installation
-- help me wih the installation
-- hi i am not able install rasa demo in my machine
-- how can I install RASA
-- how can i install python
-- how can i install rasa
-- how do I install Rasa
-- how do I install it?
-- how do I install rasa in windows
-- how do I install rasa?
-- how do I run rasa on windows
-- how do i install
-- how do i install rasa?
-- how to install
-- how to install on window
-- how to install rasa [core](product)?
-- how to install rasa in my system
-- how to install rasa on windows?
-- how to install rasa stack
-- how to install rasa?
-- how to install rasa_nlu
-- how to install sara in my server
-- how to install the rasa stack
-- i need help setting up
-- i need to download rasa
-- i want to install
-- i want to install rasa
-- i want to use pip to install sara
-- install
-- install Rasa [NLU](product)
-- install Rasa on Linux
-- install Rasa on Mac
-- install rasa stack
-- please tell steps for installing chatbot
-- what do I need to install Rasa
-- what sould i do to install rasa
-
 ## intent:next_step
 - continue to next step
 - go to the next step
@@ -4941,6 +4941,12 @@
 - my phone's battery is too hot
 - my phone is overheating
 - battery is way too hot
+
+## intent:buy_pizza
+- I would like to buy a pizza
+
+## intent:ketchup
+- Ketchup
 
 ## synonym: duration
 - how long

@@ -2,6 +2,7 @@ session_config:
   session_expiration_time: 480
   carry_over_slots_to_new_session: true
 intents:
+- buy_pizza
 - phone_not_working
 - affirm
 - ask_builder
@@ -78,6 +79,9 @@ intents:
 - out_of_scope/other
 - phone_overheating
 - order_pizza
+- buy_car
+- battery_hot
+- ketchup
 entities:
 - amount-of-money
 - company
@@ -734,6 +738,10 @@ responses:
   - text: If it's too hot, try rebooting or changing your battery.
   utter_which_car:
   - text: Which car would you like to buy?
+  utter_what_toppings:
+  - text: What toppings would you like?
+  utter_order_complete:
+  - text: Order complete.
 actions:
 - action_chitchat
 - action_default_ask_affirmation
@@ -917,6 +925,8 @@ actions:
 - utter_ask_rephrase
 - utter_battery_too_hot
 - utter_which_car
+- utter_what_toppings
+- utter_order_complete
 forms:
 - sales_form
 - subscribe_newsletter_form

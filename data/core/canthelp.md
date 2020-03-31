@@ -80,3 +80,12 @@
 
 * buy_car
     - utter_which_car
+
+## Pizza Order
+
+* greet
+    - utter_greet
+* buy_pizza
+    - utter_what_toppings
+* ketchup
+    - utter_order_complete
